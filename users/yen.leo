@@ -40,13 +40,18 @@
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20170305005542.1"><vh>20170222 Week 1</vh>
-<v t="leo.20170305005542.2" a="E"><vh>Week 1</vh>
+<v t="leo.20170305005542.2"><vh>Week 1</vh>
 <v t="leo.20170305005542.3"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170305005950.1" a="E"><vh>20170301 Week 2</vh>
+<v t="leo.20170305005950.1"><vh>20170301 Week 2</vh>
 <v t="leo.20170305005950.2" a="E"><vh>Week 2</vh>
 <v t="leo.20170305005950.3"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170312092645.1" a="E"><vh>20170308 Week 3</vh>
+<v t="leo.20170312092645.2" a="E"><vh>Week 3</vh>
+<v t="leo.20170312092645.3"><vh>上課內容</vh></v>
 </v>
 </v>
 <v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
@@ -68,6 +73,7 @@
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="yen.20170123225841.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170305003620.1"><vh>@edit 20170301.md</vh></v>
+<v t="leo.20170312092009.1"><vh>@edit 20170308.md</vh></v>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -89,7 +95,7 @@
 <v t="yen.20170120232548.1"><vh>calendar example</vh></v>
 <v t="yen.20170123204227.1"><vh>印出月曆以及各課程上課日期</vh></v>
 <v t="yen.20170207092354.1"><vh>協同程式參考</vh></v>
-<v t="yen.20170124102405.1" a="E"><vh>chat</vh>
+<v t="yen.20170124102405.1"><vh>chat</vh>
 <v t="yen.20170124102433.1"><vh>index.html</vh></v>
 </v>
 </v>
@@ -130,6 +136,39 @@
 						
 </t>
 <t tx="leo.20170305005950.3"># Week 2
+
+1.1.stunnel.conf與實體IP對應 請各種至少啟動一台https Fossil主機
+
+2.啟動後以https://IP/2017springvcp_hw連結
+
+3.帳號:cadlab密碼:2017springvcp_hw
+
+4.進入https://ethercalc.org/4lirnzbeh0fl寫各組座位表
+
+5.利用 Ethercalc 取得各學員座號與組別, 之後再將資料儲存後, 以程式整理成分組數列與座位數列, 以便在後續建立協同歷程記錄時使用，以及找出缺席同學名單
+
+6.利用協同完成Solvespace4連桿機構組立
+
+
+</t>
+<t tx="leo.20170312092645.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170312092645.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312092645.3"># Week 3
+
+
+
 
 </t>
 <t tx="yen.20170108171605.1"></t>
