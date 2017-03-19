@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
+<v t="yen.20170108171605.1"><vh>@settings</vh>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -18,12 +18,12 @@
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
-<v t="yen.20170215103217.1" a="E"><vh>編輯 template</vh>
-<v t="yen.20170215103228.1" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
+<v t="yen.20170215103217.1"><vh>編輯 template</vh>
+<v t="yen.20170215103228.1"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
@@ -33,7 +33,7 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="yen.20170120110024.9"><vh>快捷鍵</vh>
@@ -44,7 +44,7 @@
 <v t="leo.20170305005542.3"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170305005950.1"><vh>20170301 Week 2</vh>
+<v t="leo.20170305005950.1" a="E"><vh>20170301 Week 2</vh>
 <v t="leo.20170305005950.2" a="E"><vh>Week 2</vh>
 <v t="leo.20170305005950.3"><vh>上課內容</vh></v>
 </v>
@@ -54,14 +54,19 @@
 <v t="leo.20170312092645.3"><vh>上課內容</vh></v>
 </v>
 </v>
+<v t="leo.20170319224836.1" a="E"><vh>20170315 Week 4</vh>
+<v t="leo.20170319224836.2" a="E"><vh>Week 4</vh>
+<v t="leo.20170319224836.3"><vh>上課內容</vh></v>
+</v>
+</v>
 <v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
+<v t="yen.20170120110024.12"><vh>導入數學符號與方程式</vh>
 <v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
+<v t="yen.20170120110024.14"><vh>導入縮排程式碼</vh>
 <v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
+<v t="yen.20170120110024.16"><vh>導入影片</vh>
 <v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -74,7 +79,8 @@
 <v t="yen.20170123225841.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170305003620.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170312092009.1"><vh>@edit 20170308.md</vh></v>
-<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
+<v t="leo.20170319224759.1"><vh>@edit 20170315.md</vh></v>
+<v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -139,11 +145,13 @@
 
 1.1.stunnel.conf與實體IP對應 請各種至少啟動一台https Fossil主機
 
-2.啟動後以https://IP/2017springvcp_hw連結
+2.啟動後以 https:// IP /2017springvcp_hw
+連結
 
 3.帳號:cadlab密碼:2017springvcp_hw
 
-4.進入https://ethercalc.org/4lirnzbeh0fl寫各組座位表
+4.進入https://ethercalc.org/4lirnzbeh0fl
+寫各組座位表
 
 5.利用 Ethercalc 取得各學員座號與組別, 之後再將資料儲存後, 以程式整理成分組數列與座位數列, 以便在後續建立協同歷程記錄時使用，以及找出缺席同學名單
 
@@ -166,6 +174,34 @@
 						
 </t>
 <t tx="leo.20170312092645.3"># Week 3
+
+1.至課程網頁中 w3 Hyperworks 處瀏覽 10 個影片, 請每組選兩個影片, 設法寫出該影片的英文逐字稿
+
+2.完成 Solvespace 30-50-60 cm 比例的四連桿組立, 並轉出 stl 檔案, 以 import 方式轉入 V-rep
+
+3.利用 Onshape 完成上述相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep
+
+4.在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡
+
+5.請設法驗證上述四連桿運動軌跡, 是否正確, 並設法在分組網頁中執行該四連桿機構的運動模擬
+
+
+</t>
+<t tx="leo.20170319224836.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170319224836.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170319224836.3"># Week 4
 
 
 
