@@ -44,19 +44,24 @@
 <v t="leo.20170305005542.3"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170305005950.1" a="E"><vh>20170301 Week 2</vh>
+<v t="leo.20170305005950.1"><vh>20170301 Week 2</vh>
 <v t="leo.20170305005950.2" a="E"><vh>Week 2</vh>
 <v t="leo.20170305005950.3"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170312092645.1" a="E"><vh>20170308 Week 3</vh>
+<v t="leo.20170312092645.1"><vh>20170308 Week 3</vh>
 <v t="leo.20170312092645.2" a="E"><vh>Week 3</vh>
 <v t="leo.20170312092645.3"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170319224836.1" a="E"><vh>20170315 Week 4</vh>
+<v t="leo.20170319224836.1"><vh>20170315 Week 4</vh>
 <v t="leo.20170319224836.2" a="E"><vh>Week 4</vh>
 <v t="leo.20170319224836.3"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170404224641.1"><vh>20170329 Week 5</vh>
+<v t="leo.20170404224641.2" a="E"><vh>Week 5</vh>
+<v t="leo.20170404224641.3"><vh>上課內容</vh></v>
 </v>
 </v>
 <v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
@@ -81,6 +86,7 @@
 <v t="leo.20170312092009.1"><vh>@edit 20170308.md</vh></v>
 <v t="leo.20170319224759.1"><vh>@edit 20170315.md</vh></v>
 <v t="leo.20170329004707.1"><vh>@edit 20170322.md</vh></v>
+<v t="leo.20170404224613.1"><vh>@edit 20170329.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -209,6 +215,25 @@
 2. 平面四連桿機構的運動路徑方程式推導與網際 2D 繪圖, 方程式推導以 sympy 完成, 而 2D 繪圖則以 Brython 在各組網誌中完成. 先了解如何推導四連桿機構的運動方程式, 然後在各組網誌中完成靜態繪圖與動態模擬
 
 3. 為各班各組在 https://mde2a2.kmol.info 主機上建立 cdbg1(完成後可直接連結至 cdbg1 倉儲, 交由組長管理) ~ cdbg8, 以及 cdag1 ~ cdag8 等線上 Fossil SCM 倉儲
+
+
+</t>
+<t tx="leo.20170404224641.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170404224641.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170404224641.3"># Week 5
+
 
 
 </t>
