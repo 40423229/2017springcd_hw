@@ -54,12 +54,12 @@
 <v t="leo.20170312092645.3"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170319224836.1" a="E"><vh>20170315 Week 4</vh>
+<v t="leo.20170319224836.1"><vh>20170315 Week 4</vh>
 <v t="leo.20170319224836.2" a="E"><vh>Week 4</vh>
 <v t="leo.20170319224836.3"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170404224641.1" a="E"><vh>20170322 Week 5</vh>
+<v t="leo.20170404224641.1"><vh>20170322 Week 5</vh>
 <v t="leo.20170404224641.2" a="E"><vh>Week 5</vh>
 <v t="leo.20170404224641.3"><vh>上課內容</vh></v>
 </v>
@@ -67,6 +67,11 @@
 <v t="leo.20170412094625.1"><vh>20170329 Week 6</vh>
 <v t="leo.20170412094625.2" a="E"><vh>Week 6</vh>
 <v t="leo.20170412094625.3"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170412100849.1"><vh>20170405 Week 7</vh>
+<v t="leo.20170412100849.2" a="E"><vh>Week 7</vh>
+<v t="leo.20170412100849.3"><vh>上課內容</vh></v>
 </v>
 </v>
 <v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
@@ -261,6 +266,35 @@
 						
 </t>
 <t tx="leo.20170412094625.3"># Week 6
+
+1. 全自動的 start.bat 與 stop.bat 設定
+
+2. 使用者可以完全控制近端 (隨身碟或隨身硬碟) 上的 Fossil SCM Server 啟動, 並且登入進行 Wiki 與 Technote 的內容管理
+
+4. 已經會利用 Solvespace 與 OnShape 繪製 one-link, four-bar 與 Jansen's Linkage 機構, 並且將模型導入 V-rep
+
+5. 已經可以完成 V-rep 模擬平台上的 one-link velocity and position control
+
+6. 學習如何透過 loop closure 設定, 將 four-bar linkage 從 Solvespace 與 OnShape 轉入 V-rep 進行 Python Remote API 的 position and velocity 控制
+
+7. 使用者學習如何利用 OnShape 在瀏覽器中進行 one-link 與 four-bar linkage 的運動模擬, 轉出 public link 放到個人的簡報與網誌中
+
+</t>
+<t tx="leo.20170412100849.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170412100849.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412100849.3"># Week 7
 
 
 
