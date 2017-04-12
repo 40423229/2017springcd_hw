@@ -54,14 +54,19 @@
 <v t="leo.20170312092645.3"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170319224836.1"><vh>20170315 Week 4</vh>
+<v t="leo.20170319224836.1" a="E"><vh>20170315 Week 4</vh>
 <v t="leo.20170319224836.2" a="E"><vh>Week 4</vh>
 <v t="leo.20170319224836.3"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170404224641.1"><vh>20170329 Week 5</vh>
+<v t="leo.20170404224641.1" a="E"><vh>20170322 Week 5</vh>
 <v t="leo.20170404224641.2" a="E"><vh>Week 5</vh>
 <v t="leo.20170404224641.3"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170412094625.1"><vh>20170329 Week 6</vh>
+<v t="leo.20170412094625.2" a="E"><vh>Week 6</vh>
+<v t="leo.20170412094625.3"><vh>上課內容</vh></v>
 </v>
 </v>
 <v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
@@ -233,6 +238,29 @@
 						
 </t>
 <t tx="leo.20170404224641.3"># Week 5
+
+1. Fossil SCM 與 Stunnel 啟動整合
+
+2.將solvespace與onshape繪製的four-bar及onelink轉成stl檔，在匯入V-rep進行運動
+
+3.搜尋v-rep loop closure 了解joint與dummy的特性
+
+</t>
+<t tx="leo.20170412094625.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170412094625.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412094625.3"># Week 6
 
 
 
