@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:00:00+08:00</updated><entry><title>Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;h3&gt;Onshape動畫&lt;h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-05T11:00:00+08:00</updated><entry><title>Week 7</title><link href="./Week%207.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-04-05:./Week 7.html</id><summary type="html"></summary></entry><entry><title>Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;h3&gt;Onshape動畫&lt;h3&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/210539705" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/210539705"&gt;Onshape_Animation&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -9,16 +9,30 @@
 &lt;p&gt;&lt;img src="../plugin_rm.png" width="800" /&gt;
 
 &lt;p&gt;刪除 plugin 下的 liquid_tags 目錄就可以解決了&lt;p&gt;</summary></entry><entry><title>Week 5</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T11:00:00+08:00</published><updated>2017-03-22T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;h3&gt;四連桿V-rep轉動&lt;h3&gt;
+設定幾何約束 dummy 做單一形體特性 做有數據約束條件
 
 &lt;iframe src="https://player.vimeo.com/video/210459167" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/210459167"&gt;Fourbar_vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>Week 4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;h3&gt;單連桿V-rep轉動&lt;h3&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210459167"&gt;Fourbar_vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;名詞解釋&lt;h3&gt;
+
+&lt;h3&gt;1.body is respondable 物件可回復&lt;h3&gt;
+
+&lt;h3&gt;2.body is dynamic 物件為動態&lt;h3&gt;
+
+&lt;h3&gt;3.motor enabled 馬達啟用&lt;h3&gt;
+
+&lt;h3&gt;4.target velocity 速度(輸入值越大，轉動越快)&lt;h3&gt;
+
+&lt;h3&gt;5.maximun torque 最大扭矩(若扭矩不夠大，物件會轉不回來)&lt;h3&gt;</summary></entry><entry><title>Week 4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;h3&gt;單連桿V-rep轉動&lt;h3&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/209399782" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/209399782"&gt;onelink_Vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 
-&lt;h3&gt;單連桿機構轉入V-rep&lt;h3&gt;
-
+&lt;h3&gt;單連桿機構繪製及轉入V-rep&lt;h3&gt;
+為joint定位方便 孔與圓柱要有一點空隙 
+不能畫太扁 厚度與直徑太接近軟體無法辨識成圓柱
 &lt;iframe src="https://player.vimeo.com/video/209087190" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/209087190"&gt;Onshape_onelink&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>Week 3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-08T11:00:00+08:00</published><updated>2017-03-08T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-03-08:./Week 3.html</id><summary type="html">&lt;h3&gt;Solvespace多連桿機構練習&lt;h3&gt;
 &lt;iframe src="https://player.vimeo.com/video/208008643" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
