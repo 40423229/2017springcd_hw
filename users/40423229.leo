@@ -90,12 +90,20 @@
 <v t="leo.20170415205505.2"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170412100849.1" a="E"><vh>20170405 Week 7</vh>
+<v t="leo.20170412100849.1"><vh>20170405 Week 7</vh>
 <v t="leo.20170412100849.2"><vh>Week 7-1</vh>
 <v t="leo.20170412100849.3"><vh>標題</vh></v>
 </v>
 <v t="leo.20170415205016.1" a="E"><vh>Week 7-2</vh>
 <v t="leo.20170415205016.2"><vh>上課內容</vh></v>
+</v>
+</v>
+<v t="leo.20170415233041.1" a="E"><vh>20170412 Week 8</vh>
+<v t="leo.20170415233041.2" a="E"><vh>Week 8-1</vh>
+<v t="leo.20170415233041.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170415233041.4" a="E"><vh>Week 8-2</vh>
+<v t="leo.20170415233041.5"><vh>上課內容</vh></v>
 </v>
 </v>
 </v>
@@ -111,6 +119,7 @@
 <v t="leo.20170329004707.1"><vh>@edit 20170322.md</vh></v>
 <v t="leo.20170404224613.1"><vh>@edit 20170329.md</vh></v>
 <v t="leo.20170412101158.1"><vh>@edit 20170405.md</vh></v>
+<v t="leo.20170415233007.1"><vh>@edit 20170412.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -424,6 +433,41 @@
 
 
 </t>
+<t tx="leo.20170415233041.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170415233041.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170415233041.3"># Week 8
+
+
+
+</t>
+<t tx="leo.20170415233041.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170415233041.5">1.期中自評網址
+&lt;a href="期中自評網址"&gt;https://ethercalc.org/p4lqi9n81s9m&lt;/a&gt;
+
+2.小組互評網址
+&lt;a href="小組互評網址"&gt;https://pygroup-ag100.rhcloud.com/&lt;/a&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
