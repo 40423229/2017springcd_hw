@@ -40,49 +40,62 @@
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20170305005542.1"><vh>20170222 Week 1</vh>
-<v t="leo.20170305005542.2"><vh>Week 1</vh>
-<v t="leo.20170305005542.3"><vh>上課內容</vh></v>
+<v t="leo.20170305005542.2" a="E"><vh>Week 1-1</vh>
+<v t="leo.20170305005542.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170415204541.1" a="E"><vh>Week 1-2</vh>
+<v t="leo.20170415204541.2"><vh>上課內容</vh></v>
 </v>
 </v>
 <v t="leo.20170305005950.1"><vh>20170301 Week 2</vh>
-<v t="leo.20170305005950.2" a="E"><vh>Week 2</vh>
-<v t="leo.20170305005950.3"><vh>上課內容</vh></v>
+<v t="leo.20170305005950.2"><vh>Week 2-1</vh>
+<v t="leo.20170305005950.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170415204733.1"><vh>Week 2-2</vh>
+<v t="leo.20170415204733.2"><vh>上課內容</vh></v>
 </v>
 </v>
 <v t="leo.20170312092645.1"><vh>20170308 Week 3</vh>
-<v t="leo.20170312092645.2" a="E"><vh>Week 3</vh>
-<v t="leo.20170312092645.3"><vh>上課內容</vh></v>
+<v t="leo.20170312092645.2"><vh>Week 3-1</vh>
+<v t="leo.20170312092645.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170415204820.1" a="E"><vh>Week 3-2</vh>
+<v t="leo.20170415204820.2"><vh>上課內容</vh></v>
 </v>
 </v>
 <v t="leo.20170319224836.1"><vh>20170315 Week 4</vh>
-<v t="leo.20170319224836.2" a="E"><vh>Week 4</vh>
-<v t="leo.20170319224836.3"><vh>上課內容</vh></v>
+<v t="leo.20170319224836.2"><vh>Week 4-1</vh>
+<v t="leo.20170319224836.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170415204850.1" a="E"><vh>Week 4-2</vh>
+<v t="leo.20170415204850.2"><vh>上課內容</vh></v>
 </v>
 </v>
 <v t="leo.20170404224641.1"><vh>20170322 Week 5</vh>
-<v t="leo.20170404224641.2" a="E"><vh>Week 5</vh>
-<v t="leo.20170404224641.3"><vh>上課內容</vh></v>
+<v t="leo.20170404224641.2"><vh>Week 5-1</vh>
+<v t="leo.20170404224641.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170415204930.1"><vh>Week 5-2</vh>
+<v t="leo.20170415204930.2"><vh>上課內容</vh></v>
 </v>
 </v>
 <v t="leo.20170412094625.1"><vh>20170329 Week 6</vh>
-<v t="leo.20170412094625.2" a="E"><vh>Week 6</vh>
-<v t="leo.20170412094625.3"><vh>上課內容</vh></v>
+<v t="leo.20170412094625.2"><vh>Week 6-1</vh>
+<v t="leo.20170412094625.3"><vh>標題</vh></v>
+</v>
+<v t="leo.20170415204953.1"><vh>Week 6-2</vh>
+<v t="leo.20170415204953.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170415205505.1"><vh>Week 6-3</vh>
+<v t="leo.20170415205505.2"><vh>上課內容</vh></v>
 </v>
 </v>
 <v t="leo.20170412100849.1"><vh>20170405 Week 7</vh>
-<v t="leo.20170412100849.2" a="E"><vh>Week 7</vh>
-<v t="leo.20170412100849.3"><vh>上課內容</vh></v>
+<v t="leo.20170412100849.2"><vh>Week 7-1</vh>
+<v t="leo.20170412100849.3"><vh>標題</vh></v>
 </v>
-</v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="yen.20170120110024.14"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
-</v>
-<v t="yen.20170120110024.16"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170415205016.1"><vh>Week 7-2</vh>
+<v t="leo.20170415205016.2"><vh>上課內容</vh></v>
 </v>
 </v>
 </v>
@@ -140,11 +153,7 @@
 
 						
 </t>
-<t tx="leo.20170305005542.3"># Week 1
-
-1.下載tiny2017_1GB，更改stunnel.conf的IP位址
-
-2.建立個人的倉儲2017springcd_hw及其中一位組員建立小組倉儲</t>
+<t tx="leo.20170305005542.3"># Week 1</t>
 <t tx="leo.20170305005950.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -160,21 +169,6 @@
 						
 </t>
 <t tx="leo.20170305005950.3"># Week 2
-
-1.1.stunnel.conf與實體IP對應 請各種至少啟動一台https Fossil主機
-
-2.啟動後以 https:// IP /2017springvcp_hw
-連結
-
-3.帳號:cadlab密碼:2017springvcp_hw
-
-4.進入https://ethercalc.org/4lirnzbeh0fl
-寫各組座位表
-
-5.利用 Ethercalc 取得各學員座號與組別, 之後再將資料儲存後, 以程式整理成分組數列與座位數列, 以便在後續建立協同歷程記錄時使用，以及找出缺席同學名單
-
-6.利用協同完成Solvespace4連桿機構組立
-
 
 </t>
 <t tx="leo.20170312092645.1">&lt;section&gt;
@@ -192,16 +186,6 @@
 						
 </t>
 <t tx="leo.20170312092645.3"># Week 3
-
-1.至課程網頁中 w3 Hyperworks 處瀏覽 10 個影片, 請每組選兩個影片, 設法寫出該影片的英文逐字稿
-
-2.完成 Solvespace 30-50-60 cm 比例的四連桿組立, 並轉出 stl 檔案, 以 import 方式轉入 V-rep
-
-3.利用 Onshape 完成上述相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep
-
-4.在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡
-
-5.請設法驗證上述四連桿運動軌跡, 是否正確, 並設法在分組網頁中執行該四連桿機構的運動模擬
 
 
 </t>
@@ -221,12 +205,6 @@
 </t>
 <t tx="leo.20170319224836.3"># Week 4
 
-1. 各組利用網誌與簡報說明安裝或使用 Hyperworks 套件過程與心得 - 課程結束前, 希望能夠使用 Hyperworks 進行連桿機構零件的應力分析與機構運動模擬
-
-2. 平面四連桿機構的運動路徑方程式推導與網際 2D 繪圖, 方程式推導以 sympy 完成, 而 2D 繪圖則以 Brython 在各組網誌中完成. 先了解如何推導四連桿機構的運動方程式, 然後在各組網誌中完成靜態繪圖與動態模擬
-
-3. 為各班各組在 https://mde2a2.kmol.info 主機上建立 cdbg1(完成後可直接連結至 cdbg1 倉儲, 交由組長管理) ~ cdbg8, 以及 cdag1 ~ cdag8 等線上 Fossil SCM 倉儲
-
 
 </t>
 <t tx="leo.20170404224641.1">&lt;section&gt;
@@ -245,12 +223,6 @@
 </t>
 <t tx="leo.20170404224641.3"># Week 5
 
-1. Fossil SCM 與 Stunnel 啟動整合
-
-2.將solvespace與onshape繪製的four-bar及onelink轉成stl檔，在匯入V-rep進行運動
-
-3.搜尋v-rep loop closure 了解joint與dummy的特性
-
 </t>
 <t tx="leo.20170412094625.1">&lt;section&gt;
 @others
@@ -268,18 +240,6 @@
 </t>
 <t tx="leo.20170412094625.3"># Week 6
 
-1. 全自動的 start.bat 與 stop.bat 設定
-
-2. 使用者可以完全控制近端 (隨身碟或隨身硬碟) 上的 Fossil SCM Server 啟動, 並且登入進行 Wiki 與 Technote 的內容管理
-
-4. 已經會利用 Solvespace 與 OnShape 繪製 one-link, four-bar 與 Jansen's Linkage 機構, 並且將模型導入 V-rep
-
-5. 已經可以完成 V-rep 模擬平台上的 one-link velocity and position control
-
-6. 學習如何透過 loop closure 設定, 將 four-bar linkage 從 Solvespace 與 OnShape 轉入 V-rep 進行 Python Remote API 的 position and velocity 控制
-
-7. 使用者學習如何利用 OnShape 在瀏覽器中進行 one-link 與 four-bar linkage 的運動模擬, 轉出 public link 放到個人的簡報與網誌中
-
 </t>
 <t tx="leo.20170412100849.1">&lt;section&gt;
 @others
@@ -296,6 +256,168 @@
 						
 </t>
 <t tx="leo.20170412100849.3"># Week 7
+
+
+
+</t>
+<t tx="leo.20170415204541.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170415204541.2">1.下載tiny2017_1GB，更改stunnel.conf的IP位址
+
+2.建立個人的倉儲2017springcd_hw及其中一位組員建立小組倉儲</t>
+<t tx="leo.20170415204733.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170415204733.2">1.1.stunnel.conf與實體IP對應 請各種至少啟動一台https Fossil主機
+
+2.啟動後以 https:// IP /2017springvcp_hw
+連結
+
+3.帳號:cadlab密碼:2017springvcp_hw
+
+4.進入https://ethercalc.org/4lirnzbeh0fl
+寫各組座位表
+
+5.利用 Ethercalc 取得各學員座號與組別, 之後再將資料儲存後, 以程式整理成分組數列與座位數列, 以便在後續建立協同歷程記錄時使用，以及找出缺席同學名單
+
+6.利用協同完成Solvespace4連桿機構組立
+
+
+</t>
+<t tx="leo.20170415204820.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170415204820.2">1.至課程網頁中 w3 Hyperworks 處瀏覽 10 個影片, 請每組選兩個影片, 設法寫出該影片的英文逐字稿
+
+2.完成 Solvespace 30-50-60 cm 比例的四連桿組立, 並轉出 stl 檔案, 以 import 方式轉入 V-rep
+
+3.利用 Onshape 完成上述相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep
+
+4.在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡
+
+5.請設法驗證上述四連桿運動軌跡, 是否正確, 並設法在分組網頁中執行該四連桿機構的運動模擬
+
+
+</t>
+<t tx="leo.20170415204850.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170415204850.2">1. 各組利用網誌與簡報說明安裝或使用 Hyperworks 套件過程與心得 - 課程結束前, 希望能夠使用 Hyperworks 進行連桿機構零件的應力分析與機構運動模擬
+
+2. 平面四連桿機構的運動路徑方程式推導與網際 2D 繪圖, 方程式推導以 sympy 完成, 而 2D 繪圖則以 Brython 在各組網誌中完成. 先了解如何推導四連桿機構的運動方程式, 然後在各組網誌中完成靜態繪圖與動態模擬
+
+3. 為各班各組在 https://mde2a2.kmol.info 主機上建立 cdbg1(完成後可直接連結至 cdbg1 倉儲, 交由組長管理) ~ cdbg8, 以及 cdag1 ~ cdag8 等線上 Fossil SCM 倉儲
+
+
+</t>
+<t tx="leo.20170415204930.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170415204930.2">1. Fossil SCM 與 Stunnel 啟動整合
+
+2.將solvespace與onshape繪製的four-bar及onelink轉成stl檔，在匯入V-rep進行運動
+
+3.搜尋v-rep loop closure 了解joint與dummy的特性
+
+</t>
+<t tx="leo.20170415204953.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170415204953.2">1.全自動的 start.bat 與 stop.bat 設定
+
+2.使用者可以完全控制近端 (隨身碟或隨身硬碟) 上的 Fossil SCM Server 啟動, 並且登入進行 Wiki 與 Technote 的內容管理
+
+3.已經會利用 Solvespace 與 OnShape 繪製 one-link, four-bar 與 Jansen's Linkage 機構, 並且將模型導入 V-rep
+
+4.已經可以完成 V-rep 模擬平台上的 one-link velocity and position control
+
+
+
+
+</t>
+<t tx="leo.20170415205016.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170415205016.2">
+
+
+</t>
+<t tx="leo.20170415205505.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170415205505.2">5.學習如何透過 loop closure 設定, 將 four-bar linkage 從 Solvespace 與 OnShape 轉入 V-rep 進行 Python Remote API 的 position and velocity 控制
+
+6.使用者學習如何利用 OnShape 在瀏覽器中進行 one-link 與 four-bar linkage 的運動模擬, 轉出 public link 放到個人的簡報與網誌中
+
+
+
+
+
 
 
 
@@ -462,81 +584,6 @@ make.start()</t>
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
-</t>
-<t tx="yen.20170120110024.11">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170120110024.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
