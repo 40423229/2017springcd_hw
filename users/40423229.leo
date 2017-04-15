@@ -90,11 +90,11 @@
 <v t="leo.20170415205505.2"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170412100849.1"><vh>20170405 Week 7</vh>
+<v t="leo.20170412100849.1" a="E"><vh>20170405 Week 7</vh>
 <v t="leo.20170412100849.2"><vh>Week 7-1</vh>
 <v t="leo.20170412100849.3"><vh>標題</vh></v>
 </v>
-<v t="leo.20170415205016.1"><vh>Week 7-2</vh>
+<v t="leo.20170415205016.1" a="E"><vh>Week 7-2</vh>
 <v t="leo.20170415205016.2"><vh>上課內容</vh></v>
 </v>
 </v>
@@ -395,9 +395,11 @@
 
 						
 </t>
-<t tx="leo.20170415205016.2">
+<t tx="leo.20170415205016.2">1.Fossil資料推送
 
+2.solvespace與onshpae onelink、fourbar、eightbar零組件繪製 轉入VREP進行速度控制，將STL展示在分組網址，集中在一個HTML頁面，如何協同
 
+3.期中自評
 </t>
 <t tx="leo.20170415205505.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
