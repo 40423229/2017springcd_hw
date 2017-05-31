@@ -33,7 +33,7 @@ class Spur(object):
     def __init__(self, ctx):
         self.ctx = ctx
 
-    def create_line(self, x1, y1, x2, y2, width=3, fill="blue"):
+    def create_line(self, x1, y1, x2, y2, width=3, fill="red"):
         self.ctx.beginPath()
         self.ctx.lineWidth = width
         self.ctx.moveTo(x1, y1)
@@ -51,7 +51,6 @@ class Spur(object):
     def Gear(self, midx, midy, rp, n=20, pa=20, color="black"):
         # 齒輪漸開線分成 15 線段繪製
         imax = 15
-
         # 畫出 rp 圓, 畫圓函式尚未定義
         #create_oval(midx-rp, midy-rp, midx+rp, midy+rp, width=2)
         # a 為模數 (代表公制中齒的大小), 模數為節圓直徑(稱為節徑)除以齒數
@@ -149,7 +148,7 @@ x = (canvas.width)/2
 y = (canvas.height)/2
 r = 0.8*(canvas.height/2)
 # 齒數
-n = 34
+n = 36
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
