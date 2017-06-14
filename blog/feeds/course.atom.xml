@@ -4,7 +4,7 @@
 &lt;p&gt;&lt;a href="https://vimeo.com/221518170"&gt;40423229-2017springcd-final-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3&gt;2D繪製程式碼&lt;h/3&gt;
-&lt;pre class="brush: python"&gt;
+&lt;pre&gt;
 SolveSpaceREVa
 
 
@@ -1840,7 +1840,12 @@ Constraint.other=0
 Constraint.other2=0
 Constraint.reference=0
 AddConstraint
-&lt;/pre&gt;</summary></entry><entry><title>協同產品設計實習第十五週練習</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/pre&gt;
+
+
+&lt;h3&gt;3D檔案&lt;/h3&gt;
+
+&lt;iframe src="./../walker_0614.html" width="800" height="480"&gt;&lt;/iframe&gt;</summary></entry><entry><title>協同產品設計實習第十五週練習</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
