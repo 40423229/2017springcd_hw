@@ -321,7 +321,8 @@ class Spur(object):
             <hr/>
             <article>
                 <h2><a href="../Week 16.html">協同產品設計實習第十五週練習</a></h2>
-                <div class="summary">
+                <div class="summary"><p>完成 cdb1 主機設定: nginx - http://cdb1.kmol.info fossil scm - https://cdb1.kmol.info (採純 IPv6 設定)</p>
+<p>將 github 上的 2017springcd 倉儲資料送到 cdb1 主機中的 /home/cdb1/2017springcd 目錄, 然後修改 /etc/nginx/sites-available 目錄下的 default, 讓 root 指向 /home/cdb1/2017springcd, 得到 http://cdb1.kmol.info (server 採 IPv6 設定)</p>
                     <a class="btn btn-default btn-xs" href="../Week 16.html">more ...</a>
                 </div>
             </article>
@@ -342,7 +343,7 @@ class Spur(object):
             <hr/>
             <article>
                 <h2><a href="../Week 13.html">Week 13</a></h2>
-                <div class="summary">
+                <div class="summary"><p>各班給兩台實體電腦, 從 Ubuntu 16.04 裝起, 配置正齒輪齒面寬輔助設計程式, 然後設法延伸此網際輔助設計程式, 配置 V-rep、Leo Editor、Fossil SCM server 以及 Nginx 加上以 uwsgi 配置 Python3 網際程式等系統. - 由 WCM 課程學員負責配置好硬體與操作系統, 然後逐步放入網際內容管理系統後, 分別為協同產品設計實習各學員建立帳號, 然後試著完成上述各系統與伺服器的建立.</p>
                     <a class="btn btn-default btn-xs" href="../Week 13.html">more ...</a>
                 </div>
             </article>
@@ -372,7 +373,35 @@ class Spur(object):
             <hr/>
             <article>
                 <h2><a href="../Week 10.html">Week 10</a></h2>
-                <div class="summary">
+                <div class="summary"><pre class="brush: python">
+<!-- 導入 Brython 標準程式庫 -->
+
+<script src="../data/Brython-3.3.1/brython.js"></script>
+<script src="../data/Brython-3.3.1/brython_stdlib.js"></script>
+
+<!-- 啟動 Brython -->
+<script>
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+</script>
+
+<!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
+<!--<canvas id="w10" width="800" height="600"></canvas>-->
+
+<div id="container" width="600" height="400"></div>
+
+<script type="text/python3">
+from browser import document as doc
+from browser import html
+import math
+container = doc['container']
+degree = math.pi/180
+def button1(event):
+    a = input("give me a")
+    container <= str(math.cos(60*degree)+float(a))
+doc["button1 ...</script></!--<canvas></!--></!--></!--></pre>
                     <a class="btn btn-default btn-xs" href="../Week 10.html">more ...</a>
                 </div>
             </article>

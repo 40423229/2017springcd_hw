@@ -166,7 +166,8 @@ Spur(ctx).Gear(x, y, r, n, pa, "blue")
 
 &lt;h3&gt;V-rep動態模擬&lt;/h3&gt;
 &lt;iframe src="https://player.vimeo.com/video/221525610" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/221525610"&gt;40423229-2017springcd-final-5&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>協同產品設計實習第十五週練習</title><link href="./Week%2016.html" rel="alternate"></link><published>2017-06-07T11:00:00+08:00</published><updated>2017-06-07T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-06-07:./Week 16.html</id><summary type="html"></summary></entry><entry><title>協同產品設計實習第十五週練習</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/221525610"&gt;40423229-2017springcd-final-5&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>協同產品設計實習第十五週練習</title><link href="./Week%2016.html" rel="alternate"></link><published>2017-06-07T11:00:00+08:00</published><updated>2017-06-07T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-06-07:./Week 16.html</id><summary type="html">&lt;p&gt;完成 cdb1 主機設定: nginx - http://cdb1.kmol.info fossil scm - https://cdb1.kmol.info (採純 IPv6 設定)&lt;/p&gt;
+&lt;p&gt;將 github 上的 2017springcd 倉儲資料送到 cdb1 主機中的 /home/cdb1/2017springcd 目錄, 然後修改 /etc/nginx/sites-available 目錄下的 default, 讓 root 指向 /home/cdb1/2017springcd, 得到 http://cdb1.kmol.info (server 採 IPv6 設定)&lt;/p&gt;</summary></entry><entry><title>協同產品設計實習第十五週練習</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -487,7 +488,7 @@ ctx.stroke()
 &lt;/script&gt;
 
 &lt;p&gt;練習影片
-&lt;iframe src="https://player.vimeo.com/video/219625367" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/219625367"&gt;w15_onegear&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary></entry><entry><title>Week 14</title><link href="./Week%2014.html" rel="alternate"></link><published>2017-05-24T11:00:00+08:00</published><updated>2017-05-24T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-05-24:./Week 14.html</id><summary type="html"></summary></entry><entry><title>Week 13</title><link href="./Week%2013.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-05-17:./Week 13.html</id><summary type="html"></summary></entry><entry><title>Week 12</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;h3&gt;漸開線齒輪繪製&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/219625367" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/219625367"&gt;w15_onegear&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary></entry><entry><title>Week 14</title><link href="./Week%2014.html" rel="alternate"></link><published>2017-05-24T11:00:00+08:00</published><updated>2017-05-24T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-05-24:./Week 14.html</id><summary type="html"></summary></entry><entry><title>Week 13</title><link href="./Week%2013.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-05-17:./Week 13.html</id><summary type="html">&lt;p&gt;各班給兩台實體電腦, 從 Ubuntu 16.04 裝起, 配置正齒輪齒面寬輔助設計程式, 然後設法延伸此網際輔助設計程式, 配置 V-rep、Leo Editor、Fossil SCM server 以及 Nginx 加上以 uwsgi 配置 Python3 網際程式等系統. - 由 WCM 課程學員負責配置好硬體與操作系統, 然後逐步放入網際內容管理系統後, 分別為協同產品設計實習各學員建立帳號, 然後試著完成上述各系統與伺服器的建立.&lt;/p&gt;</summary></entry><entry><title>Week 12</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;h3&gt;漸開線齒輪繪製&lt;/h3&gt;
 
 &lt;p&gt;以節圓直徑d=50,模數m=2.5,齒數t=20繪製
 &lt;iframe src="https://player.vimeo.com/video/220577677" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1095,7 +1096,38 @@ ctx.rotate(-math.pi/2-math.pi/n_g3+(math.pi+math.pi/n_g2)*n_g2/n_g3)
 ctx.translate(-x_g3, -y_g3)
 Spur(ctx).Gear(x_g3, y_g3, rp_g3, n_g3, pa, "red")
 ctx.restore()
-&lt;/script&gt;</summary></entry><entry><title>Week 10</title><link href="./Week%2010.html" rel="alternate"></link><published>2017-04-26T11:00:00+08:00</published><updated>2017-04-26T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-04-26:./Week 10.html</id><summary type="html"></summary></entry><entry><title>Week 9</title><link href="./Week%209.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-04-19:./Week 9.html</id><summary type="html">&lt;p&gt;期中報告&lt;/p&gt;
+&lt;/script&gt;</summary></entry><entry><title>Week 10</title><link href="./Week%2010.html" rel="alternate"></link><published>2017-04-26T11:00:00+08:00</published><updated>2017-04-26T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-04-26:./Week 10.html</id><summary type="html">&lt;pre class="brush: python"&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+&lt;script&gt;
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+&lt;!--&lt;canvas id="w10" width="800" height="600"&gt;&lt;/canvas&gt;--&gt;
+
+&lt;div id="container" width="600" height="400"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+import math
+container = doc['container']
+degree = math.pi/180
+def button1(event):
+    a = input("give me a")
+    container &lt;= str(math.cos(60*degree)+float(a))
+doc["button1"].bind("click", button1)
+&lt;/script&gt;
+&lt;button id="button1"&gt;按下取 a 值&lt;/button&gt;
+&lt;/pre&gt;</summary></entry><entry><title>Week 9</title><link href="./Week%209.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-04-19:./Week 9.html</id><summary type="html">&lt;p&gt;期中報告&lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
