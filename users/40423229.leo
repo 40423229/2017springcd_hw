@@ -117,7 +117,7 @@
 <v t="leo.20170621083615.2"><vh>上課內容</vh></v>
 </v>
 </v>
-<v t="leo.20170621082137.1"><vh>20170426 Week 10</vh>
+<v t="leo.20170621082137.1" a="E"><vh>20170426 Week 10</vh>
 <v t="leo.20170621082137.2" a="E"><vh>Week 10-1</vh>
 <v t="leo.20170621082137.3"><vh>標題</vh></v>
 </v>
@@ -137,7 +137,7 @@
 <v t="leo.20170621082137.12"><vh>Week 12-1</vh>
 <v t="leo.20170621082137.13"><vh>標題</vh></v>
 </v>
-<v t="leo.20170621082137.14"><vh>Week 12-2</vh>
+<v t="leo.20170621082137.14" a="E"><vh>Week 12-2</vh>
 <v t="leo.20170621082137.15"><vh>上課內容</vh></v>
 </v>
 </v>
@@ -172,7 +172,7 @@
 <v t="leo.20170621082138.17"><vh>Week 16-1</vh>
 <v t="leo.20170621082138.18"><vh>標題</vh></v>
 </v>
-<v t="leo.20170621082138.19"><vh>Week 16-2</vh>
+<v t="leo.20170621082138.19" a="E"><vh>Week 16-2</vh>
 <v t="leo.20170621082138.20"><vh>上課內容</vh></v>
 </v>
 </v>
@@ -605,7 +605,7 @@
 <t tx="leo.20170621082137.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170621082137.10"></t>
+<t tx="leo.20170621082137.10">利用漸開線原理, 以 Brython 繪製單一正齒輪廓</t>
 <t tx="leo.20170621082137.11">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -636,7 +636,12 @@
 
 						
 </t>
-<t tx="leo.20170621082137.15"></t>
+<t tx="leo.20170621082137.15">漸開線齒輪繪製
+
+以節圓直徑d=50,模數m=2.5,齒數t=20繪製
+&lt;iframe src="https://player.vimeo.com/video/220577677" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/220577677"&gt;Involute gear&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170621082137.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -774,7 +779,9 @@
 
 						
 </t>
-<t tx="leo.20170621082138.20"></t>
+<t tx="leo.20170621082138.20">完成 cdb1 主機設定: nginx - http://cdb1.kmol.info fossil scm - https://cdb1.kmol.info (採純 IPv6 設定)
+
+將 github 上的 2017springcd 倉儲資料送到 cdb1 主機中的 /home/cdb1/2017springcd 目錄, 然後修改 /etc/nginx/sites-available 目錄下的 default, 讓 root 指向 /home/cdb1/2017springcd, 得到 http://cdb1.kmol.info (server 採 IPv6 設定)</t>
 <t tx="leo.20170621082138.3"># Week 13
 
 
