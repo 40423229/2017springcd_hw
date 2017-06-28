@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-06-14T11:00:00+08:00</updated><entry><title>協同產品設計實習第十七週練習</title><link href="./Week%2017.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-06-14:./Week 17.html</id><summary type="html">&lt;h3&gt;2D繪製影片&lt;h/3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-06-21T11:00:00+08:00</updated><entry><title>Week18</title><link href="./Week%2018.html" rel="alternate"></link><published>2017-06-21T11:00:00+08:00</published><updated>2017-06-21T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-06-21:./Week 18.html</id><summary type="html">&lt;h3&gt;四足行走機構動畫&lt;h/3&gt;
+&lt;iframe src="https://player.vimeo.com/video/223478563" width="640" height="382" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/223478563"&gt;w18_8link_walker&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Onshape四足行走機構&lt;h/3&gt;
+&lt;a href="https://cad.onshape.com/documents/286622e5babd73debcedf494/w/981b9d819a80cf7c55b1a40a/e/3586cb4773ebd2c1ab388ef0"&gt;Onshpae網址&lt;/a&gt;
+&lt;h3&gt;四足行走機構檔案&lt;h/3&gt;
+&lt;a href="https://github.com/40423229/2017springcd_hw/blob/gh-pages/w18/8link_walker.stl"&gt;行走機構檔案&lt;/a&gt;</summary></entry><entry><title>協同產品設計實習第十七週練習</title><link href="./Week%2017.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>40423229</name></author><id>tag:,2017-06-14:./Week 17.html</id><summary type="html">&lt;h3&gt;2D繪製影片&lt;h/3&gt;
 &lt;iframe src="https://player.vimeo.com/video/221518170" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/221518170"&gt;40423229-2017springcd-final-2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47808963"&gt;40423229&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
